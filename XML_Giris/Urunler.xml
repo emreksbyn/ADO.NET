@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<!--Ürünlerin tam listesi-->
+<Urunler>
+  <Urun ID="1">
+    <UrunAdi>Chai</UrunAdi>
+    <TedarikciID>1</TedarikciID>
+    <KategoriID>1</KategoriID>
+    <BirimAdetMiktari>10 boxes x 20 bags</BirimAdetMiktari>
+    <BirimFiyati>18,0000</BirimFiyati>
+    <Stok>39</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>10</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="2">
+    <UrunAdi>Chang</UrunAdi>
+    <TedarikciID>1</TedarikciID>
+    <KategoriID>1</KategoriID>
+    <BirimAdetMiktari>24 - 12 oz bottles</BirimAdetMiktari>
+    <BirimFiyati>19,0000</BirimFiyati>
+    <Stok>17</Stok>
+    <SiparisSayisi>40</SiparisSayisi>
+    <YenidenSiparisSeviyesi>25</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="3">
+    <UrunAdi>Aniseed Syrup</UrunAdi>
+    <TedarikciID>1</TedarikciID>
+    <KategoriID>2</KategoriID>
+    <BirimAdetMiktari>12 - 550 ml bottles</BirimAdetMiktari>
+    <BirimFiyati>10,0000</BirimFiyati>
+    <Stok>13</Stok>
+    <SiparisSayisi>70</SiparisSayisi>
+    <YenidenSiparisSeviyesi>25</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="4">
+    <UrunAdi>Chef Anton's Cajun Seasoning</UrunAdi>
+    <TedarikciID>2</TedarikciID>
+    <KategoriID>2</KategoriID>
+    <BirimAdetMiktari>48 - 6 oz jars</BirimAdetMiktari>
+    <BirimFiyati>22,0000</BirimFiyati>
+    <Stok>53</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>0</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="5">
+    <UrunAdi>Chef Anton's Gumbo Mix</UrunAdi>
+    <TedarikciID>2</TedarikciID>
+    <KategoriID>2</KategoriID>
+    <BirimAdetMiktari>36 boxes</BirimAdetMiktari>
+    <BirimFiyati>21,3500</BirimFiyati>
+    <Stok>0</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>0</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>True</TedariktenKalkti>
+  </Urun>
+  <Urun ID="6">
+    <UrunAdi>Grandma's Boysenberry Spread</UrunAdi>
+    <TedarikciID>3</TedarikciID>
+    <KategoriID>2</KategoriID>
+    <BirimAdetMiktari>12 - 8 oz jars</BirimAdetMiktari>
+    <BirimFiyati>25,0000</BirimFiyati>
+    <Stok>120</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>25</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="7">
+    <UrunAdi>Uncle Bob's Organic Dried Pears</UrunAdi>
+    <TedarikciID>3</TedarikciID>
+    <KategoriID>7</KategoriID>
+    <BirimAdetMiktari>12 - 1 lb pkgs.</BirimAdetMiktari>
+    <BirimFiyati>30,0000</BirimFiyati>
+    <Stok>15</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>10</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="8">
+    <UrunAdi>Northwoods Cranberry Sauce</UrunAdi>
+    <TedarikciID>3</TedarikciID>
+    <KategoriID>2</KategoriID>
+    <BirimAdetMiktari>12 - 12 oz jars</BirimAdetMiktari>
+    <BirimFiyati>40,0000</BirimFiyati>
+    <Stok>6</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>0</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="9">
+    <UrunAdi>Mishi Kobe Niku</UrunAdi>
+    <TedarikciID>4</TedarikciID>
+    <KategoriID>6</KategoriID>
+    <BirimAdetMiktari>18 - 500 g pkgs.</BirimAdetMiktari>
+    <BirimFiyati>97,0000</BirimFiyati>
+    <Stok>29</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>0</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>True</TedariktenKalkti>
+  </Urun>
+  <Urun ID="10">
+    <UrunAdi>Ikura</UrunAdi>
+    <TedarikciID>4</TedarikciID>
+    <KategoriID>8</KategoriID>
+    <BirimAdetMiktari>12 - 200 ml jars</BirimAdetMiktari>
+    <BirimFiyati>31,0000</BirimFiyati>
+    <Stok>31</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>0</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="11">
+    <UrunAdi>Queso Cabrales</UrunAdi>
+    <TedarikciID>5</TedarikciID>
+    <KategoriID>4</KategoriID>
+    <BirimAdetMiktari>1 kg pkg.</BirimAdetMiktari>
+    <BirimFiyati>21,0000</BirimFiyati>
+    <Stok>22</Stok>
+    <SiparisSayisi>30</SiparisSayisi>
+    <YenidenSiparisSeviyesi>30</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="12">
+    <UrunAdi>Queso Manchego La Pastora</UrunAdi>
+    <TedarikciID>5</TedarikciID>
+    <KategoriID>4</KategoriID>
+    <BirimAdetMiktari>10 - 500 g pkgs.</BirimAdetMiktari>
+    <BirimFiyati>38,0000</BirimFiyati>
+    <Stok>86</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>0</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="13">
+    <UrunAdi>Konbu</UrunAdi>
+    <TedarikciID>6</TedarikciID>
+    <KategoriID>8</KategoriID>
+    <BirimAdetMiktari>2 kg box</BirimAdetMiktari>
+    <BirimFiyati>6,0000</BirimFiyati>
+    <Stok>24</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>5</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="14">
+    <UrunAdi>Tofu</UrunAdi>
+    <TedarikciID>6</TedarikciID>
+    <KategoriID>7</KategoriID>
+    <BirimAdetMiktari>40 - 100 g pkgs.</BirimAdetMiktari>
+    <BirimFiyati>23,2500</BirimFiyati>
+    <Stok>35</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>0</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="15">
+    <UrunAdi>Genen Shouyu</UrunAdi>
+    <TedarikciID>6</TedarikciID>
+    <KategoriID>2</KategoriID>
+    <BirimAdetMiktari>24 - 250 ml bottles</BirimAdetMiktari>
+    <BirimFiyati>15,5000</BirimFiyati>
+    <Stok>39</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>5</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="16">
+    <UrunAdi>Pavlova</UrunAdi>
+    <TedarikciID>7</TedarikciID>
+    <KategoriID>3</KategoriID>
+    <BirimAdetMiktari>32 - 500 g boxes</BirimAdetMiktari>
+    <BirimFiyati>17,4500</BirimFiyati>
+    <Stok>29</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>10</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="17">
+    <UrunAdi>Alice Mutton</UrunAdi>
+    <TedarikciID>7</TedarikciID>
+    <KategoriID>6</KategoriID>
+    <BirimAdetMiktari>20 - 1 kg tins</BirimAdetMiktari>
+    <BirimFiyati>39,0000</BirimFiyati>
+    <Stok>0</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>0</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>True</TedariktenKalkti>
+  </Urun>
+  <Urun ID="18">
+    <UrunAdi>Carnarvon Tigers</UrunAdi>
+    <TedarikciID>7</TedarikciID>
+    <KategoriID>8</KategoriID>
+    <BirimAdetMiktari>16 kg pkg.</BirimAdetMiktari>
+    <BirimFiyati>62,5000</BirimFiyati>
+    <Stok>42</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>0</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="19">
+    <UrunAdi>Teatime Chocolate Biscuits</UrunAdi>
+    <TedarikciID>8</TedarikciID>
+    <KategoriID>3</KategoriID>
+    <BirimAdetMiktari>10 boxes x 12 pieces</BirimAdetMiktari>
+    <BirimFiyati>9,2000</BirimFiyati>
+    <Stok>25</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>5</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="20">
+    <UrunAdi>Sir Rodney's Marmalade</UrunAdi>
+    <TedarikciID>8</TedarikciID>
+    <KategoriID>3</KategoriID>
+    <BirimAdetMiktari>30 gift boxes</BirimAdetMiktari>
+    <BirimFiyati>81,0000</BirimFiyati>
+    <Stok>40</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>0</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="21">
+    <UrunAdi>Sir Rodney's Scones</UrunAdi>
+    <TedarikciID>8</TedarikciID>
+    <KategoriID>3</KategoriID>
+    <BirimAdetMiktari>24 pkgs. x 4 pieces</BirimAdetMiktari>
+    <BirimFiyati>10,0000</BirimFiyati>
+    <Stok>3</Stok>
+    <SiparisSayisi>40</SiparisSayisi>
+    <YenidenSiparisSeviyesi>5</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="22">
+    <UrunAdi>Gustaf's Knäckebröd</UrunAdi>
+    <TedarikciID>9</TedarikciID>
+    <KategoriID>5</KategoriID>
+    <BirimAdetMiktari>24 - 500 g pkgs.</BirimAdetMiktari>
+    <BirimFiyati>21,0000</BirimFiyati>
+    <Stok>104</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>25</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="23">
+    <UrunAdi>Tunnbröd</UrunAdi>
+    <TedarikciID>9</TedarikciID>
+    <KategoriID>5</KategoriID>
+    <BirimAdetMiktari>12 - 250 g pkgs.</BirimAdetMiktari>
+    <BirimFiyati>9,0000</BirimFiyati>
+    <Stok>61</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>25</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="24">
+    <UrunAdi>Guaraná Fantástica</UrunAdi>
+    <TedarikciID>10</TedarikciID>
+    <KategoriID>1</KategoriID>
+    <BirimAdetMiktari>12 - 355 ml cans</BirimAdetMiktari>
+    <BirimFiyati>4,5000</BirimFiyati>
+    <Stok>20</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>0</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>True</TedariktenKalkti>
+  </Urun>
+  <Urun ID="25">
+    <UrunAdi>NuNuCa Nuß-Nougat-Creme</UrunAdi>
+    <TedarikciID>11</TedarikciID>
+    <KategoriID>3</KategoriID>
+    <BirimAdetMiktari>20 - 450 g glasses</BirimAdetMiktari>
+    <BirimFiyati>14,0000</BirimFiyati>
+    <Stok>76</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>30</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="26">
+    <UrunAdi>Gumbär Gummibärchen</UrunAdi>
+    <TedarikciID>11</TedarikciID>
+    <KategoriID>3</KategoriID>
+    <BirimAdetMiktari>100 - 250 g bags</BirimAdetMiktari>
+    <BirimFiyati>31,2300</BirimFiyati>
+    <Stok>15</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>0</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="27">
+    <UrunAdi>Schoggi Schokolade</UrunAdi>
+    <TedarikciID>11</TedarikciID>
+    <KategoriID>3</KategoriID>
+    <BirimAdetMiktari>100 - 100 g pieces</BirimAdetMiktari>
+    <BirimFiyati>43,9000</BirimFiyati>
+    <Stok>49</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>30</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="28">
+    <UrunAdi>Rössle Sauerkraut</UrunAdi>
+    <TedarikciID>12</TedarikciID>
+    <KategoriID>7</KategoriID>
+    <BirimAdetMiktari>25 - 825 g cans</BirimAdetMiktari>
+    <BirimFiyati>45,6000</BirimFiyati>
+    <Stok>26</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>0</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>True</TedariktenKalkti>
+  </Urun>
+  <Urun ID="29">
+    <UrunAdi>Thüringer Rostbratwurst</UrunAdi>
+    <TedarikciID>12</TedarikciID>
+    <KategoriID>6</KategoriID>
+    <BirimAdetMiktari>50 bags x 30 sausgs.</BirimAdetMiktari>
+    <BirimFiyati>123,7900</BirimFiyati>
+    <Stok>0</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>0</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>True</TedariktenKalkti>
+  </Urun>
+  <Urun ID="30">
+    <UrunAdi>Nord-Ost Matjeshering</UrunAdi>
+    <TedarikciID>13</TedarikciID>
+    <KategoriID>8</KategoriID>
+    <BirimAdetMiktari>10 - 200 g glasses</BirimAdetMiktari>
+    <BirimFiyati>25,8900</BirimFiyati>
+    <Stok>10</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>15</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="31">
+    <UrunAdi>Gorgonzola Telino</UrunAdi>
+    <TedarikciID>14</TedarikciID>
+    <KategoriID>4</KategoriID>
+    <BirimAdetMiktari>12 - 100 g pkgs</BirimAdetMiktari>
+    <BirimFiyati>12,5000</BirimFiyati>
+    <Stok>0</Stok>
+    <SiparisSayisi>70</SiparisSayisi>
+    <YenidenSiparisSeviyesi>20</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="32">
+    <UrunAdi>Mascarpone Fabioli</UrunAdi>
+    <TedarikciID>14</TedarikciID>
+    <KategoriID>4</KategoriID>
+    <BirimAdetMiktari>24 - 200 g pkgs.</BirimAdetMiktari>
+    <BirimFiyati>32,0000</BirimFiyati>
+    <Stok>9</Stok>
+    <SiparisSayisi>40</SiparisSayisi>
+    <YenidenSiparisSeviyesi>25</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="33">
+    <UrunAdi>Geitost</UrunAdi>
+    <TedarikciID>15</TedarikciID>
+    <KategoriID>4</KategoriID>
+    <BirimAdetMiktari>500 g</BirimAdetMiktari>
+    <BirimFiyati>2,5000</BirimFiyati>
+    <Stok>112</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>20</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="34">
+    <UrunAdi>Sasquatch Ale</UrunAdi>
+    <TedarikciID>16</TedarikciID>
+    <KategoriID>1</KategoriID>
+    <BirimAdetMiktari>24 - 12 oz bottles</BirimAdetMiktari>
+    <BirimFiyati>14,0000</BirimFiyati>
+    <Stok>111</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>15</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="35">
+    <UrunAdi>Steeleye Stout</UrunAdi>
+    <TedarikciID>16</TedarikciID>
+    <KategoriID>1</KategoriID>
+    <BirimAdetMiktari>24 - 12 oz bottles</BirimAdetMiktari>
+    <BirimFiyati>18,0000</BirimFiyati>
+    <Stok>20</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>15</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="36">
+    <UrunAdi>Inlagd Sill</UrunAdi>
+    <TedarikciID>17</TedarikciID>
+    <KategoriID>8</KategoriID>
+    <BirimAdetMiktari>24 - 250 g  jars</BirimAdetMiktari>
+    <BirimFiyati>19,0000</BirimFiyati>
+    <Stok>112</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>20</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="37">
+    <UrunAdi>Gravad lax</UrunAdi>
+    <TedarikciID>17</TedarikciID>
+    <KategoriID>8</KategoriID>
+    <BirimAdetMiktari>12 - 500 g pkgs.</BirimAdetMiktari>
+    <BirimFiyati>26,0000</BirimFiyati>
+    <Stok>11</Stok>
+    <SiparisSayisi>50</SiparisSayisi>
+    <YenidenSiparisSeviyesi>25</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="38">
+    <UrunAdi>Côte de Blaye</UrunAdi>
+    <TedarikciID>18</TedarikciID>
+    <KategoriID>1</KategoriID>
+    <BirimAdetMiktari>12 - 75 cl bottles</BirimAdetMiktari>
+    <BirimFiyati>263,5000</BirimFiyati>
+    <Stok>17</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>15</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="39">
+    <UrunAdi>Chartreuse verte</UrunAdi>
+    <TedarikciID>18</TedarikciID>
+    <KategoriID>1</KategoriID>
+    <BirimAdetMiktari>750 cc per bottle</BirimAdetMiktari>
+    <BirimFiyati>18,0000</BirimFiyati>
+    <Stok>69</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>5</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="40">
+    <UrunAdi>Boston Crab Meat</UrunAdi>
+    <TedarikciID>19</TedarikciID>
+    <KategoriID>8</KategoriID>
+    <BirimAdetMiktari>24 - 4 oz tins</BirimAdetMiktari>
+    <BirimFiyati>18,4000</BirimFiyati>
+    <Stok>123</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>30</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="41">
+    <UrunAdi>Jack's New England Clam Chowder</UrunAdi>
+    <TedarikciID>19</TedarikciID>
+    <KategoriID>8</KategoriID>
+    <BirimAdetMiktari>12 - 12 oz cans</BirimAdetMiktari>
+    <BirimFiyati>9,6500</BirimFiyati>
+    <Stok>85</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>10</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="42">
+    <UrunAdi>Singaporean Hokkien Fried Mee</UrunAdi>
+    <TedarikciID>20</TedarikciID>
+    <KategoriID>5</KategoriID>
+    <BirimAdetMiktari>32 - 1 kg pkgs.</BirimAdetMiktari>
+    <BirimFiyati>14,0000</BirimFiyati>
+    <Stok>26</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>0</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>True</TedariktenKalkti>
+  </Urun>
+  <Urun ID="43">
+    <UrunAdi>Ipoh Coffee</UrunAdi>
+    <TedarikciID>20</TedarikciID>
+    <KategoriID>1</KategoriID>
+    <BirimAdetMiktari>16 - 500 g tins</BirimAdetMiktari>
+    <BirimFiyati>46,0000</BirimFiyati>
+    <Stok>17</Stok>
+    <SiparisSayisi>10</SiparisSayisi>
+    <YenidenSiparisSeviyesi>25</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="44">
+    <UrunAdi>Gula Malacca</UrunAdi>
+    <TedarikciID>20</TedarikciID>
+    <KategoriID>2</KategoriID>
+    <BirimAdetMiktari>20 - 2 kg bags</BirimAdetMiktari>
+    <BirimFiyati>19,4500</BirimFiyati>
+    <Stok>27</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>15</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="45">
+    <UrunAdi>Rogede sild</UrunAdi>
+    <TedarikciID>21</TedarikciID>
+    <KategoriID>8</KategoriID>
+    <BirimAdetMiktari>1k pkg.</BirimAdetMiktari>
+    <BirimFiyati>9,5000</BirimFiyati>
+    <Stok>5</Stok>
+    <SiparisSayisi>70</SiparisSayisi>
+    <YenidenSiparisSeviyesi>15</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="46">
+    <UrunAdi>Spegesild</UrunAdi>
+    <TedarikciID>21</TedarikciID>
+    <KategoriID>8</KategoriID>
+    <BirimAdetMiktari>4 - 450 g glasses</BirimAdetMiktari>
+    <BirimFiyati>12,0000</BirimFiyati>
+    <Stok>95</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>0</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="47">
+    <UrunAdi>Zaanse koeken</UrunAdi>
+    <TedarikciID>22</TedarikciID>
+    <KategoriID>3</KategoriID>
+    <BirimAdetMiktari>10 - 4 oz boxes</BirimAdetMiktari>
+    <BirimFiyati>9,5000</BirimFiyati>
+    <Stok>36</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>0</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="48">
+    <UrunAdi>Chocolade</UrunAdi>
+    <TedarikciID>22</TedarikciID>
+    <KategoriID>3</KategoriID>
+    <BirimAdetMiktari>10 pkgs.</BirimAdetMiktari>
+    <BirimFiyati>12,7500</BirimFiyati>
+    <Stok>15</Stok>
+    <SiparisSayisi>70</SiparisSayisi>
+    <YenidenSiparisSeviyesi>25</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="49">
+    <UrunAdi>Maxilaku</UrunAdi>
+    <TedarikciID>23</TedarikciID>
+    <KategoriID>3</KategoriID>
+    <BirimAdetMiktari>24 - 50 g pkgs.</BirimAdetMiktari>
+    <BirimFiyati>20,0000</BirimFiyati>
+    <Stok>10</Stok>
+    <SiparisSayisi>60</SiparisSayisi>
+    <YenidenSiparisSeviyesi>15</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="50">
+    <UrunAdi>Valkoinen suklaa</UrunAdi>
+    <TedarikciID>23</TedarikciID>
+    <KategoriID>3</KategoriID>
+    <BirimAdetMiktari>12 - 100 g bars</BirimAdetMiktari>
+    <BirimFiyati>16,2500</BirimFiyati>
+    <Stok>65</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>30</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="51">
+    <UrunAdi>Manjimup Dried Apples</UrunAdi>
+    <TedarikciID>24</TedarikciID>
+    <KategoriID>7</KategoriID>
+    <BirimAdetMiktari>50 - 300 g pkgs.</BirimAdetMiktari>
+    <BirimFiyati>53,0000</BirimFiyati>
+    <Stok>20</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>10</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="52">
+    <UrunAdi>Filo Mix</UrunAdi>
+    <TedarikciID>24</TedarikciID>
+    <KategoriID>5</KategoriID>
+    <BirimAdetMiktari>16 - 2 kg boxes</BirimAdetMiktari>
+    <BirimFiyati>7,0000</BirimFiyati>
+    <Stok>38</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>25</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="53">
+    <UrunAdi>Perth Pasties</UrunAdi>
+    <TedarikciID>24</TedarikciID>
+    <KategoriID>6</KategoriID>
+    <BirimAdetMiktari>48 pieces</BirimAdetMiktari>
+    <BirimFiyati>32,8000</BirimFiyati>
+    <Stok>0</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>0</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>True</TedariktenKalkti>
+  </Urun>
+  <Urun ID="54">
+    <UrunAdi>Tourtière</UrunAdi>
+    <TedarikciID>25</TedarikciID>
+    <KategoriID>6</KategoriID>
+    <BirimAdetMiktari>16 pies</BirimAdetMiktari>
+    <BirimFiyati>7,4500</BirimFiyati>
+    <Stok>21</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>10</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="55">
+    <UrunAdi>Pâté chinois</UrunAdi>
+    <TedarikciID>25</TedarikciID>
+    <KategoriID>6</KategoriID>
+    <BirimAdetMiktari>24 boxes x 2 pies</BirimAdetMiktari>
+    <BirimFiyati>24,0000</BirimFiyati>
+    <Stok>115</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>20</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="56">
+    <UrunAdi>Gnocchi di nonna Alice</UrunAdi>
+    <TedarikciID>26</TedarikciID>
+    <KategoriID>5</KategoriID>
+    <BirimAdetMiktari>24 - 250 g pkgs.</BirimAdetMiktari>
+    <BirimFiyati>38,0000</BirimFiyati>
+    <Stok>21</Stok>
+    <SiparisSayisi>10</SiparisSayisi>
+    <YenidenSiparisSeviyesi>30</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="57">
+    <UrunAdi>Ravioli Angelo</UrunAdi>
+    <TedarikciID>26</TedarikciID>
+    <KategoriID>5</KategoriID>
+    <BirimAdetMiktari>24 - 250 g pkgs.</BirimAdetMiktari>
+    <BirimFiyati>19,5000</BirimFiyati>
+    <Stok>36</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>20</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="58">
+    <UrunAdi>Escargots de Bourgogne</UrunAdi>
+    <TedarikciID>27</TedarikciID>
+    <KategoriID>8</KategoriID>
+    <BirimAdetMiktari>24 pieces</BirimAdetMiktari>
+    <BirimFiyati>13,2500</BirimFiyati>
+    <Stok>62</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>20</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="59">
+    <UrunAdi>Raclette Courdavault</UrunAdi>
+    <TedarikciID>28</TedarikciID>
+    <KategoriID>4</KategoriID>
+    <BirimAdetMiktari>5 kg pkg.</BirimAdetMiktari>
+    <BirimFiyati>55,0000</BirimFiyati>
+    <Stok>79</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>0</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="60">
+    <UrunAdi>Camembert Pierrot</UrunAdi>
+    <TedarikciID>28</TedarikciID>
+    <KategoriID>4</KategoriID>
+    <BirimAdetMiktari>15 - 300 g rounds</BirimAdetMiktari>
+    <BirimFiyati>34,0000</BirimFiyati>
+    <Stok>19</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>0</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="61">
+    <UrunAdi>Sirop d'érable</UrunAdi>
+    <TedarikciID>29</TedarikciID>
+    <KategoriID>2</KategoriID>
+    <BirimAdetMiktari>24 - 500 ml bottles</BirimAdetMiktari>
+    <BirimFiyati>28,5000</BirimFiyati>
+    <Stok>113</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>25</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="62">
+    <UrunAdi>Tarte au sucre</UrunAdi>
+    <TedarikciID>29</TedarikciID>
+    <KategoriID>3</KategoriID>
+    <BirimAdetMiktari>48 pies</BirimAdetMiktari>
+    <BirimFiyati>49,3000</BirimFiyati>
+    <Stok>17</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>0</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="63">
+    <UrunAdi>Vegie-spread</UrunAdi>
+    <TedarikciID>7</TedarikciID>
+    <KategoriID>2</KategoriID>
+    <BirimAdetMiktari>15 - 625 g jars</BirimAdetMiktari>
+    <BirimFiyati>43,9000</BirimFiyati>
+    <Stok>24</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>5</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="64">
+    <UrunAdi>Wimmers gute Semmelknödel</UrunAdi>
+    <TedarikciID>12</TedarikciID>
+    <KategoriID>5</KategoriID>
+    <BirimAdetMiktari>20 bags x 4 pieces</BirimAdetMiktari>
+    <BirimFiyati>33,2500</BirimFiyati>
+    <Stok>22</Stok>
+    <SiparisSayisi>80</SiparisSayisi>
+    <YenidenSiparisSeviyesi>30</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="65">
+    <UrunAdi>Louisiana Fiery Hot Pepper Sauce</UrunAdi>
+    <TedarikciID>2</TedarikciID>
+    <KategoriID>2</KategoriID>
+    <BirimAdetMiktari>32 - 8 oz bottles</BirimAdetMiktari>
+    <BirimFiyati>21,0500</BirimFiyati>
+    <Stok>76</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>0</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="66">
+    <UrunAdi>Louisiana Hot Spiced Okra</UrunAdi>
+    <TedarikciID>2</TedarikciID>
+    <KategoriID>2</KategoriID>
+    <BirimAdetMiktari>24 - 8 oz jars</BirimAdetMiktari>
+    <BirimFiyati>17,0000</BirimFiyati>
+    <Stok>4</Stok>
+    <SiparisSayisi>100</SiparisSayisi>
+    <YenidenSiparisSeviyesi>20</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="67">
+    <UrunAdi>Laughing Lumberjack Lager</UrunAdi>
+    <TedarikciID>16</TedarikciID>
+    <KategoriID>1</KategoriID>
+    <BirimAdetMiktari>24 - 12 oz bottles</BirimAdetMiktari>
+    <BirimFiyati>14,0000</BirimFiyati>
+    <Stok>52</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>10</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="68">
+    <UrunAdi>Scottish Longbreads</UrunAdi>
+    <TedarikciID>8</TedarikciID>
+    <KategoriID>3</KategoriID>
+    <BirimAdetMiktari>10 boxes x 8 pieces</BirimAdetMiktari>
+    <BirimFiyati>12,5000</BirimFiyati>
+    <Stok>6</Stok>
+    <SiparisSayisi>10</SiparisSayisi>
+    <YenidenSiparisSeviyesi>15</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="69">
+    <UrunAdi>Gudbrandsdalsost</UrunAdi>
+    <TedarikciID>15</TedarikciID>
+    <KategoriID>4</KategoriID>
+    <BirimAdetMiktari>10 kg pkg.</BirimAdetMiktari>
+    <BirimFiyati>36,0000</BirimFiyati>
+    <Stok>26</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>15</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="70">
+    <UrunAdi>Outback Lager</UrunAdi>
+    <TedarikciID>7</TedarikciID>
+    <KategoriID>1</KategoriID>
+    <BirimAdetMiktari>24 - 355 ml bottles</BirimAdetMiktari>
+    <BirimFiyati>15,0000</BirimFiyati>
+    <Stok>15</Stok>
+    <SiparisSayisi>10</SiparisSayisi>
+    <YenidenSiparisSeviyesi>30</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="71">
+    <UrunAdi>Flotemysost</UrunAdi>
+    <TedarikciID>15</TedarikciID>
+    <KategoriID>4</KategoriID>
+    <BirimAdetMiktari>10 - 500 g pkgs.</BirimAdetMiktari>
+    <BirimFiyati>21,5000</BirimFiyati>
+    <Stok>26</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>0</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="72">
+    <UrunAdi>Mozzarella di Giovanni</UrunAdi>
+    <TedarikciID>14</TedarikciID>
+    <KategoriID>4</KategoriID>
+    <BirimAdetMiktari>24 - 200 g pkgs.</BirimAdetMiktari>
+    <BirimFiyati>34,8000</BirimFiyati>
+    <Stok>14</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>0</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="73">
+    <UrunAdi>Röd Kaviar</UrunAdi>
+    <TedarikciID>17</TedarikciID>
+    <KategoriID>8</KategoriID>
+    <BirimAdetMiktari>24 - 150 g jars</BirimAdetMiktari>
+    <BirimFiyati>15,0000</BirimFiyati>
+    <Stok>101</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>5</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="74">
+    <UrunAdi>Longlife Tofu</UrunAdi>
+    <TedarikciID>4</TedarikciID>
+    <KategoriID>7</KategoriID>
+    <BirimAdetMiktari>5 kg pkg.</BirimAdetMiktari>
+    <BirimFiyati>10,0000</BirimFiyati>
+    <Stok>4</Stok>
+    <SiparisSayisi>20</SiparisSayisi>
+    <YenidenSiparisSeviyesi>5</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="75">
+    <UrunAdi>Rhönbräu Klosterbier</UrunAdi>
+    <TedarikciID>12</TedarikciID>
+    <KategoriID>1</KategoriID>
+    <BirimAdetMiktari>24 - 0.5 l bottles</BirimAdetMiktari>
+    <BirimFiyati>7,7500</BirimFiyati>
+    <Stok>125</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>25</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="76">
+    <UrunAdi>Lakkalikööri</UrunAdi>
+    <TedarikciID>23</TedarikciID>
+    <KategoriID>1</KategoriID>
+    <BirimAdetMiktari>500 ml</BirimAdetMiktari>
+    <BirimFiyati>18,0000</BirimFiyati>
+    <Stok>57</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>20</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="77">
+    <UrunAdi>Original Frankfurter grüne Soße</UrunAdi>
+    <TedarikciID>12</TedarikciID>
+    <KategoriID>2</KategoriID>
+    <BirimAdetMiktari>12 boxes</BirimAdetMiktari>
+    <BirimFiyati>13,0000</BirimFiyati>
+    <Stok>32</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>15</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+  <Urun ID="78">
+    <UrunAdi>Hamsi</UrunAdi>
+    <TedarikciID>27</TedarikciID>
+    <KategoriID>8</KategoriID>
+    <BirimAdetMiktari>1 kg</BirimAdetMiktari>
+    <BirimFiyati>30,0000</BirimFiyati>
+    <Stok>200</Stok>
+    <SiparisSayisi>0</SiparisSayisi>
+    <YenidenSiparisSeviyesi>0</YenidenSiparisSeviyesi>
+    <TedariktenKalkti>False</TedariktenKalkti>
+  </Urun>
+</Urunler>
